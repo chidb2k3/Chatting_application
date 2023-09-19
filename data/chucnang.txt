@@ -1,0 +1,9 @@
+Các kỹ thuật được sử dụng:
+     - Xử lí yêu cầu đăng nhập, đăng ký
+     - Xử lí yêu cầu gửi tin nhắn văn bản
+     - Xử lí yêu cầu gửi tin nhắn biểu cảm (Emoji)
+     - Xử lí yêu cầu gửi File
+     - Cập nhật danh sách người dùng trực tuyến
+https://www.youtube.com/watch?v=K6t6CX_fCEM
+giao thức, mô hình
+kết nối, ns chuyện, tcp, p2p
